@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Chat Assistant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="login">Login...</string>
+    <string name="authentication_error">Authentication Failed: email or password is wrong </string>
+    <string name="empty_field_error">Fields cannot be empty </string>
+    <string name="success_login">Success login</string>
+    <string name="user_id"><u>User Id :</u></string>
+    <string name="session_id">Session Id :</string>
+    <string name="user_name">User Name :</string>
+    <string name="display_name">Display Name :</string>
+    <string name="bearer_token">Bearer Token :</string>
+    <string name="refresh_token">Refresh Token :</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login_text">Login</string>
+
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Get Started</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password Must Be Minimum 6 Charecters</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="btn_login">Sign In with Facebook </string>
+    <string name="txt_login_signup">or SIGN IN with email</string>
+    <string name="txt_login_reviw_term">By using this app you agree to \nour<font color='#fa66ad'>Terms &amp; Condation</font>\nand <font color='blue'>Privacy Policy</font></string>
+    <string name="txt_not_reg">Not registered?</string>
+    <string name="txt_create_acc">Create Account</string>
+    <string name="txt_forget_pass">Forget Password</string>
+    <string name="txt_login_bottom">By using this app you agree to \nour <u><font color='#f5841f'>Term &amp; Condation</font></u> for use\nand <u><font color='#f5841f'>PrivacyPolicy</font></u></string>
+    <string name="text_userid">User Id :</string>
+    <string name="text_sessionid">Session Id :</string>
+    <string name="text_userName">User Name :</string>
+    <string name="text_dispalyname">Display Name :</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="title_activity_customer_details">CustomerDetails</string>
+    <string name="error_required_email">Email is required</string>
+    <string name="error_required_password">Password is required</string>
+    <string name="invalid_email">Please enter valid email address</string>
+    <string name="invalid_password">Password Must Be Minimum 6 Charecters</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="text_terms">By using this app you agree to</string>
+    <string name="text_terms_conditions"><u><font color='#f5841f'>Term &amp; Condation</font></u> for use</string>
+    <string name="text_policy"><u><font color='#f5841f'>PrivacyPolicy</font></u></string>
+    <string name="policy_link"></string>
+    <string name="terms_link"></string>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!---->
+    <string name="my_account">My Account</string>
+    <!--//edot Account-->
+    <string name="txt_editacc">My Account</string>
+    <string name="txt_editpay">Payment Settings</string>
+    <string name="txt_editfirstname">FIRST NAME</string>
+    <string name="txt_editlastname">LAST NAME</string>
+    <string name="txt_editEmaiid">EMAIL</string>
+    <string name="txt_editPass">CHANGE PASSWORD</string>
+    <string name="txt_editphone">PHONE</string>
+    <string name="txt_editbirtday">BIRTHDAY</string>
+
+    <!---->
+    <!---->
+    <!--//create Account-->
+    <string name="txt_createacc">Create Account</string>
+    <string name="txt_firstname">FIRST NAME</string>
+    <string name="txt_lastname">LAST NAME</string>
+    <string name="txt_Emaiid">EMAIL</string>
+    <string name="txt_Pass">PASSWORD</string>
+    <string name="txt_confirm_pass">CONFIRM PASSWORD</string>
+    <string name="txt_phone">PHONE</string>
+    <string name="txt_birtday">BIRTHDAY</string>
+    <string name="txt_create_account_bottom">Review our <u><font color='#f5841f'>Term &amp; Condation</font></u> for use</string>
+
+    <!--fragment_intro_screen-->
+    <string name="welcome_to">Welcome to Chat Assistant</string>
+    <string name="the_most_trusted_source_of_accurate">The most trusted source of accurate</string>
+
+    <string name="new_user">New User?</string>
+    <string name="create_account">Create Account</string>
+    <string name="browse_psychics">BROWSE PSYCHICS</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="already_have_an_account_with_us">Already have an account with us?</string>
+
+
+    <!--chat screen-->
+    <string name="txt_livechat_lebel">Live Chat will begin when Zariya greets you.</string>
+    <string name="edt_chat_hint">Start Chat</string>
+
+
+    <!-- psychic full bio-->
+    <string name="psychi_name"></string>
+    <string name="psychi_customer_price"></string>
+    <string name="BasePrice_data"></string>
+
+    <string name="usp_txt"></string>
+
+    <string name="psychi_tot_reading"></string>
+    <string name="psychi_since"></string>
+    <string name="psychi_topic"></string>
+    <string name="psychi_tools"></string>
+    <string name="psychi_abilities"></string>
+    <string name="psychi_style"></string>
+    <string name="psychi_detail"></string>
+
+    <!--tutorial on boarding-->
+    <string name="tb_skip">Skip Tutorial</string>
+    <!--live chat -->
+    <string name="lc_connect">Connect with a psychic 24/7</string>
+    <string name="lc_live">Live Chat</string>
+    <string name="lc_desc">Have a live Psychic reading over chat. You\'ll just need 5 minutes available in your account balance to connect.</string>
+    <!--Talk now-->
+    <string name="tn_talk">Talk Now</string>
+    <string name="tn_desc">Connect over the phone with trusted psychics 24 hours a day, 7 days a week.</string>
+    <!--Call Back-->
+    <string name="cb_add">Add to Callback Queue</string>
+    <string name="cb_desc">If your chosen psychic is busy or offline, press this button to receive a callback from that psychic when he or she becomes available.</string>
+    <!--Send Message-->
+    <string name="sm_msg">Message</string>
+    <string name="sm_desc">Send a message to a psychic that may not be available to connect right now. Each reply will count as 1 minute.</string>
+    <!--Add Fund-->
+    <string name="af_addfund">Add Funds</string>
+    <string name="af_setup">Set up now &#187;</string>
+    <string name="af_desc">Setup \'Auto-Reload\' to avoid interruptions in your readings.</string>
+
+    <!--filterby screen text-->
+    <string name="txt_filterby_header">Tap a subject area to choose filters</string>
+    <string name="txt_filterby_topic">Topic</string>
+    <string name="txt_filterby_ability">Ability</string>
+    <string name="txt_filterby_tool">Tool</string>
+    <string name="txt_filterby_price">Price</string>
+    <string name="txt_filterby_style">Style</string>
+    <string name="txt_filterby_clear_filters">CLEAR FILTERS</string>
+    <string name="btn">Done</string>
+    <string name="txt_nodata">No Matches</string>
+    <string name="txt_nodata2">There are no matching psychics</string>
+
+    <string-array name="filter_title">
+        <item>Topic</item>
+        <item>Ability</item>
+        <item>Tool</item>
+        <item>Price</item>
+        <item>Style</item>
+    </string-array>
+
+
+    <!--Logout-->
+    <string name="btn_logout">LOG OUT</string>
+</resources>

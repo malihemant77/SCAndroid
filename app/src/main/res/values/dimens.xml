@@ -1,0 +1,70 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="defalut_margin">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="logo_vertical_margin">70dp</dimen>
+    <dimen name="email_pass_bottom_margin">5dp</dimen>
+
+
+    <dimen name="extra_large_text">20sp</dimen>
+    <dimen name="large_text">18sp</dimen>
+    <dimen name="medium_text">15sp</dimen>
+    <dimen name="welcome_text_size">14sp</dimen>
+    <dimen name="small_text">13sp</dimen>
+
+    <!--intro screen-->
+
+    <dimen name="default_sepration">23dp</dimen>
+    <dimen name="default_sepration_intro">40dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+    <!--Chat app screen-->
+    <dimen name="chat_userimage_height_width">36dp</dimen>
+
+    <!--Chat list items app screen-->
+    <dimen name="left_margin">25dp</dimen>
+    <dimen name="margin_left_right_top">16dp</dimen>
+    <dimen name="txt_chat_info_size">13sp</dimen>
+    <dimen name="txt_message_receive_size">16sp</dimen>
+    <dimen name="triangle_shape_height_width">25dp</dimen>
+    <dimen name="linearLayout_left_margin">20dp</dimen>
+    <dimen name="txt_message_receive_lineSpacingExtra">4sp</dimen>
+    <dimen name="txt_message_receive_padding">16dp</dimen>
+    <dimen name="txt_datetime_margine_left">24dp</dimen>
+    <dimen name="txt_datetime_margine_top">5dp</dimen>
+    <dimen name="txt_datetime_size">12sp</dimen>
+    <dimen name="linearLayout_right_margin">25dp</dimen>
+
+
+    <!-- Sliding Menu. -->
+
+    <dimen name="slidingmenu_offset">150dp</dimen>
+    <dimen name="list_padding">5dp</dimen>
+    <dimen name="shadow_width">1dp</dimen>
+
+    <!--filterby screen-->
+    <dimen name="fb_left_margin">25dp</dimen>
+    <dimen name="fb_txt_topic_size">16sp</dimen>
+    <dimen name="arrow_size">15dp</dimen>
+    <dimen name="fb_topic_left_margin">15dp</dimen>
+
+    <!--Add Creadit Card-->
+    <dimen name="toolbar_height">45dp</dimen>
+    <dimen name="img_back_width_height">30dp</dimen>
+    <dimen name="back_img_pedding">7dp</dimen>
+    <dimen name="pedding">10dp</dimen>
+    <dimen name="toolbartitle_txt_size">18sp</dimen>
+    <dimen name="margin_left_right">25dp</dimen>
+    <dimen name="lebel_ccn">18sp</dimen>
+    <dimen name="lebel_title">12sp</dimen>
+    <dimen name="txt_size">15sp</dimen>
+    <dimen name="pedding_top">6dp</dimen>
+    <dimen name="edt_hieght">25dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="lebel_billing_address">14sp</dimen>
+    <dimen name="margin_top">25dp</dimen>
+    <dimen name="edit_icon_padding">5dp</dimen>
+
+</resources>
